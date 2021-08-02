@@ -1,0 +1,6 @@
+AOMessage: "&7[&4AO&7]&3 %player%&7: &d%message%"
+VerboseOn: "&7[&4AO&7] &dVerbose on"
+VerboseOff: "&7[&4AO&7] &dVerbose off"
+JoinLeaveMessages: true
+JoinMessage: "&7[&4AO&7] &a+ &3%player%"
+LeaveMessage: "&7[&4AO&7] &c- &3%player%"

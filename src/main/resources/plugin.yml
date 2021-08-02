@@ -1,0 +1,10 @@
+name: AdminOnly
+version: ${project.version}
+main: me.supersanta.adminonly.AdminOnly
+api-version: 1.17
+authors: [ SuperSanta ]
+description: A staff chat plugin
+website: https://github.com/Super-Santa/AdminOnly
+commands:
+  ao:
+    description: The main command for AdminOnly
