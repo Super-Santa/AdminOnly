@@ -1,7 +1,7 @@
 # AdminOnly
 A simple, lightweight, and configurable staff chat plugin built for 1.17.x.
 
-config.yml is where you can set up your custom messages. The %player% variable can be used to display the players name, and `%message%` variable can be used to display the message sent. Color codes are supported!
+`config.yml` is where you can set up your custom messages. The `%player%` variable can be used to display the players name, and `%message%` variable can be used to display the message sent. Color codes are supported!
 
 ## config.yml:
 ```
